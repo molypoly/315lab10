@@ -1,0 +1,16 @@
+1. Which of the three algorithms performed the best for your pfile? Along with your statement of which algorithm did best, record only the 4-line summary information in lab10.txt.
+
+    BestFit algorithm did the best 
+
+    Using the best fit algorithm
+	Total unserviced time is 69
+	Total service required is 530
+	Percent unserviced is 13%
+
+2.
+
+
+    - Increasing N has the effect of decreasing unserviced time.
+    - Increasing MAXARRIVAL has the effect of increasing unserviced time.
+    - Increasing MAXSIZE has the effect of increasing unserviced time.
+    - Increasing MAXSERVICE has the effect of increasing unserviced time
