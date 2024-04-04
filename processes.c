@@ -16,7 +16,7 @@
 #define N 50			/* number of processes */
 #define MAXARRIVAL 80		/* latest arrival time */
 #define MAXSIZE 30		/* maximum memory size of a process */
-#define MAXSERVICE 100		/* maximum amount of service time required */
+#define MAXSERVICE 20		/* maximum amount of service time required */
 #define MAXINT 32767
 
 int main() {
