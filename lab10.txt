@@ -1,0 +1,3 @@
+1. Which of the three algorithms performed the best for your pfile? Along with your statement of which algorithm did best, record only the 4-line summary information in lab10.txt.
+
+    
